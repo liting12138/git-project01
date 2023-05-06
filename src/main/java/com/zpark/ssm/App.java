@@ -9,6 +9,7 @@ public class App {
         System.out.println("Hello Git!lt hotfix first modify!");
         System.out.println("Hello Git!lt master first modify!");
         System.out.println("Hello Git!lt hotfix second modify!");
+        System.out.println("Hello Git!lt hotfix third modify!");
 
     }
 }
